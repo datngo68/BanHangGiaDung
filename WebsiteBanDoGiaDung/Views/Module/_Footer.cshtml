@@ -1,0 +1,105 @@
+﻿@model IEnumerable<WebsiteBanDoGiaDung.Models.MMenu>
+
+<style>
+    .footer {
+        border-top: 4px solid #ee4d2d;
+        padding-top: 16px;
+        background-color: #fff;
+    }
+    .footer__heading {
+        font-size: 15px;
+        text-transform: uppercase;
+        color: rgba(0, 0, 0, 0.65);
+        font-weight: 600;
+        font-family: serif;
+    }
+    .footer-item__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.54);
+        font-size: 13px;
+        padding: 2px 0;
+    }
+        .footer-item__link:hover {
+            color: red;
+        }
+    .footer-item__icon {
+        font-size: 16.5px;
+        margin-top: -1px;
+        margin-right: 8px;
+    }
+    .footer_download-qr {
+        width: 80px;
+        height: 80px;
+        object-fit: contain;
+    }
+
+    .footer_download-apps {
+        margin-left: 16px;
+    }
+
+    .footer_download-app-img {
+        height: 20px;
+        margin-bottom: 2px;
+    }
+    .footer_download{
+        display:flex;
+    }
+</style>
+<footer class="footer">
+    <div class="row container-91 my-4">
+        <div class="col-2">
+            <div class="footer__heading">VỀ CHÚNG TÔI</div>
+            @foreach (var k in Model)
+            {
+                <a href="~/@k.Link" class="footer-item__link mt-1"> @k.Name</a>
+            }
+            <a href="" class="footer-item__link mt-1">Giới thiệu nhanam.vn</a>
+            <a href="" class="footer-item__link mt-1">Điều khoản sử dụng</a>
+            <a href="" class="footer-item__link mt-1">Điểm tích lũy </a>
+        </div>
+
+        <div class="col-3">
+            <div class="footer__heading">CHĂM SÓC KHÁCH HÀNG</div>
+            <a href="" class="footer-item__link mt-2">Trung tâm trợ giúp</a>
+            <a href="" class="footer-item__link mt-1">Hướng dẫn mua hàng</a>
+            <a href="" class="footer-item__link mt-1">Thanh toán</a>
+            <a href="" class="footer-item__link mt-1">Trả tiền và hoàn tiền</a>
+            <a href="" class="footer-item__link mt-1">Chính sách hỗ trợ</a>
+        </div>
+        <div class="col-3">
+            <div class="footer__heading">THANH TOÁN</div>
+            <a href="" class="footer-item__link mt-2">Thanh toán bằng tiền mặt</a>
+            <a href="" class="footer-item__link mt-1">Thanh toán online</a>
+        </div>
+        <div class="col-md-2">
+            <div class="footer__heading">THEO DÕI TRÊN</div>
+            <a href="" class="footer-item__link mt-2">
+                <i class="footer-item__icon fab fa-facebook"></i>
+                Facebook
+            </a>
+            <a href="" class="footer-item__link mt-1">
+                <i class="footer-item__icon fab fa-instagram"></i>
+                Instagram
+            </a>
+            <a href="" class="footer-item__link mt-1">
+                <i class="footer-item__icon fab fa-linkedin"></i>
+                Linkedin
+            </a>
+        </div>
+        <div class="col-md-2">
+            <div class="footer__heading">Tải ứng dụng</div>
+            <div class="footer_download">
+                <img src="~/Public/img/qcode.png" alt="" class="footer_download-qr">
+                <div class="footer_download-apps">
+                    <a href="" class="footer_download-apps-link">
+                        <img src="~/Public/img/appstore.png" alt="" class="footer_download-app-img">
+                        <img src="~/Public/img/ggplay.png" alt="" class="footer_download-app-img">
+                        <img src="~/Public/img/appkhac.png" alt="" class="footer_download-app-img">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+</footer>
