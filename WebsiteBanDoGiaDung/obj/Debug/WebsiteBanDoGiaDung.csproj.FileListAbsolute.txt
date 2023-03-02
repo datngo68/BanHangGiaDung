@@ -1,0 +1,669 @@
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+C:\Users\DELL\Downloads\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csprojAssemblyReference.cache
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\TTTN\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csprojAssemblyReference.cache
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\LamPJ\Mẫu\1.2.2021\ShopGiaDung DB + Web + Báo Cáo\ShopGiaDung\TTTN_LeGiaLai_2117110029\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+C:\Users\Admin.HAOLN\Desktop\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\Đồ án\NỘP ĐỒ ÁN\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\Đồ án\NỘP ĐỒ ÁN\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\HTTT 2018604123 Luong Ngoc Hao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\HTTT2018604123LuongNgocHao\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\TongketMon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\suachualon\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll.config
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanDoGiaDung.pdb
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.AssemblyReference.cache
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CoreCompileInputs.cache
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.csproj.CopyComplete
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.dll
+D:\HocTap\Doan\WebSite\Website_ban_Sach\ChuongTrinh\webbansach\WebsiteBanDoGiaDung\obj\Debug\WebsiteBanDoGiaDung.pdb
